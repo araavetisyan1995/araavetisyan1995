@@ -1,0 +1,31 @@
+body{background: LightGoldenRodYellow}
+p#Desc:hover{background-color:lightgrey;
+                   color:slategrey;
+               		font-family: sans-serif;
+               			border:18px solid;}
+h2#working:hover{background-color:lightgrey;
+                   color:slategrey;
+               		font-family: sans-serif;
+               			border:18px solid;}
+h2#educating:hover{background-color:lightgrey;
+                   color:slategrey;
+               		font-family: sans-serif;
+               			border:18px solid;}
+h2#publications:hover{background-color:lightgrey;
+                   color:slategrey;
+               		font-family: sans-serif;
+               			border:18px solid;}
+h2#cert:hover{background-color:lightgrey;
+                   color:slategrey;
+                  font-family: sans-serif;
+                    border:18px solid;}
+h2#hob:hover{background-color:lightgrey;
+                   color:slategrey;
+                  font-family: sans-serif;
+                    border:18px solid;}
+th,td{padding: 15px;
+ 	border: 2px solid}
+ 	table{border-collapse: collapse;}
+ li{padding: 15px;
+ 	border: 2px solid}
+ button {background-color: DarkGoldenRod ; border:4px; color: black; padding: 6px 12px; text-decoration: underline}
